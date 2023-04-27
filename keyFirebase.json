@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "simplon-gestion-temp-humidite",
+    "private_key_id": "ae310ccee4fde46b100c1bf125b8d09976e748f8",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyq+vDjKtqeFQu\nfBDa/diCX6bKdJGOGA4/fQLPRx1XWxOYo8mLPGKvsZbGokaWuUa4k7/NnSRpvVSc\nbLn99UDLXudj3yaKZq/v5nh8kRodwRGuMefNxBSFL5tRK8oeC+VDQztzdSgCBcEy\ndZeAG1KmlPKWNmkZ4FCn2XzZuHMjzucDxlWs41eFyOueL0Sah8Sas5/g+8n4np+L\nATm4sra1s+F0JHaAw8pTOZXPmvzU2aJ0OoMArpvFV0jYRQFTZ2B0S5CqfEFMaF2E\njQsyq6Y1ba2YOF+cT4Mus1anbfwOphQyIjBNhV9RVl9MKL1gZY6vFlN1wKsbNH3t\nrH9eRaI7AgMBAAECggEAOFrPlzNEUeW4L51EN75/TsfatNrFmjruK4pDm5tDnu0E\nJk3q4Pbf7aim9On0N9AihU9c3P6moI9uI5SLqZV0pXC+rRqSbm7rKVDZSfj+csoV\nyIrHIXiqPEQCyjx0mLuJyYhoNQeL4e9su3ypl2eGzzIFvelVhyrgZcDMh2ONNYqi\njHIMCQlsJhxuhZln0MvpkiEArBL1TREyYq+DMfBldNB+5dNfaXbrbV0RavI6ZfVH\nyiezZRN+4D4n9ys7/V1+9r5E/yPFCsYa8X95XR9JTlNj7jnrbBQ6asjYlAdNnp4v\nSI79CcZALxxVppm4vbzIWvTSHtlPE+iNhNx5YZPhYQKBgQDqLwzE5gWIot5wx/iD\nL68fwkrLEAnj2UAGiM3geWSmQWdxfpWc6JZ/+13+To35UPM477lxf2yjolM2cu81\nE9EWEkhM4Davdf91xW7EAerlshvbba2HN/zmP/Nms0EVRDUDN86FwzCibgTjs+xP\ne4p29r42lEnsypl7Hf+wa8FbEQKBgQDDUPvKuQ1TPs0+nE4Lr0lQRWX8P1t43bzm\nacX+tgPzVfHcVP1Xb3Pbztqz7SWqwNLJLrXuVfAlPo8Cz+a7T7SnPSdRvg0YF1cD\nXnCP+qlqD8N7lBjpiDR2hzMe/d+5xivjQefmuDZFwcl6qqjZ8WtrpATgKeIRguD3\nOgIoy9YwiwKBgQDk4J8mQXnfFO86YvbroEsUSxw2YrKH0ejVehdc8MgCBaJINmOb\nO2b8Jnyy86umpAtS9ljUKKnRM/EIIkTQJ1IOtEedevV3f2fxfsjHIOinHfBEAWm7\n4mh10MLe+Qr+8e6t+nkKGr8JwWVd9pdbB29I3dcCGOQ3XburrKIdlvMfQQKBgQCm\nr2RTO95NXtlWR5qriiptIOzKe1+bJNFjan2YxMlWT9CbEsUqa2la+4vV5dsxgGHj\nY8PL5PePMXZnFfp5fKpV13DI6ALQvop5y40QswEGDPHtcxRXqO/s/7D3D/5w0tj9\nl29LjYZzvdAuqZp0dP4R3OZ0UAoom6NWGeFh46OlxQKBgEeUDU1sjObJbJN1VOsH\nowFTiZC9qaEw79XkwkB9NJWlqGJdRyFimfNs3zLllpqw9fCOaroQDZiFo72tgz24\nzXqZBjhGR64wCQzZ1iElMlQt5BR5JVCDW8G7nlN6tV87SzKQZt3Yy5TnQ13CmaBF\ny8aAqXILRV1T34YMU5kJBuP3\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-fjhto@simplon-gestion-temp-humidite.iam.gserviceaccount.com",
+    "client_id": "108771012314765173185",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fjhto%40simplon-gestion-temp-humidite.iam.gserviceaccount.com"
+  }
